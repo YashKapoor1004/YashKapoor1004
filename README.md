@@ -21,9 +21,9 @@
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKapoor1004&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashk10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Statistics:
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashKapoor1004&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YashKapoor1004&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk10&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashk10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=YashKapoor1004.YashKapoor1004) -->
