@@ -21,8 +21,6 @@
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashk-10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Statistics:
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk-10&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashk-10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
