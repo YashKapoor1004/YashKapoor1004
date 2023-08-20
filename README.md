@@ -22,6 +22,5 @@
 <br></br>
 
 ### Statistics:
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashk-10&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashk-10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=YashKapoor1004.YashKapoor1004) -->
