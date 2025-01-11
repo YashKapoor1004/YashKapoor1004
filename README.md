@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Yash Kapoor
 
-### Aspiring Innovator, Software Developer, and Rising Freshman at the University of Waterloo.
+### Aspiring Innovator, Software Engineer, and Junior at the University of Waterloo.
 
 - 🔭 I’m currently exploring Artificial Intelligence APIs to build a passion project
 - 🌱 I’m following a roadmap to learn the fundamentals of Backend Development
 - 📫 Feel free to contact me through my [email](mailto:yashkapoor1004@gmail.com)
-- ⚡ Fun fact: I've never lived in the same continent for longer than 5 years
+- ⚡ Fun fact: I've lived in 4 continents for at least 4 years each
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -21,6 +21,8 @@
 <img align="left" alt="Firebase" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <br></br>
 
+<!--  
 ### Statistics:
 [![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashk-10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=YashKapoor1004.YashKapoor1004) -->
